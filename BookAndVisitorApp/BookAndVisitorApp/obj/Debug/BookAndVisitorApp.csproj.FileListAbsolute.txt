@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\BookAndVisitorApp\BookAndVisitorApp\obj\Debug\BookAndVisitorApp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BookAndVisitorApp\BookAndVisitorApp\obj\Debug\BookAndVisitorApp.Form1.resources
+C:\Users\Admin\source\repos\BookAndVisitorApp\BookAndVisitorApp\obj\Debug\BookAndVisitorApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\BookAndVisitorApp\BookAndVisitorApp\obj\Debug\BookAndVisitorApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BookAndVisitorApp\BookAndVisitorApp\bin\Debug\BookAndVisitorApp.exe.config
+C:\Users\Admin\source\repos\BookAndVisitorApp\BookAndVisitorApp\bin\Debug\BookAndVisitorApp.exe
+C:\Users\Admin\source\repos\BookAndVisitorApp\BookAndVisitorApp\bin\Debug\BookAndVisitorApp.pdb
+C:\Users\Admin\source\repos\BookAndVisitorApp\BookAndVisitorApp\obj\Debug\BookAndVisitorApp.exe
+C:\Users\Admin\source\repos\BookAndVisitorApp\BookAndVisitorApp\obj\Debug\BookAndVisitorApp.pdb
