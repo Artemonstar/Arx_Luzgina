@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\OOPTasksApp\OOPTasksApp\bin\Debug\OOPTasksApp.exe.config
+C:\Users\Admin\source\repos\OOPTasksApp\OOPTasksApp\bin\Debug\OOPTasksApp.exe
+C:\Users\Admin\source\repos\OOPTasksApp\OOPTasksApp\bin\Debug\OOPTasksApp.pdb
+C:\Users\Admin\source\repos\OOPTasksApp\OOPTasksApp\obj\Debug\OOPTasksApp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OOPTasksApp\OOPTasksApp\obj\Debug\OOPTasksApp.Form1.resources
+C:\Users\Admin\source\repos\OOPTasksApp\OOPTasksApp\obj\Debug\OOPTasksApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\OOPTasksApp\OOPTasksApp\obj\Debug\OOPTasksApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPTasksApp\OOPTasksApp\obj\Debug\OOPTasksApp.exe
+C:\Users\Admin\source\repos\OOPTasksApp\OOPTasksApp\obj\Debug\OOPTasksApp.pdb
