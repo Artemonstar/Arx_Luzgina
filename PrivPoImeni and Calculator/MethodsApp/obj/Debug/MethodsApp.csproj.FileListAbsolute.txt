@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\MethodsApp\MethodsApp\obj\Debug\MethodsApp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MethodsApp\MethodsApp\obj\Debug\MethodsApp.Form1.resources
+C:\Users\Admin\source\repos\MethodsApp\MethodsApp\obj\Debug\MethodsApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\MethodsApp\MethodsApp\obj\Debug\MethodsApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MethodsApp\MethodsApp\bin\Debug\MethodsApp.exe.config
+C:\Users\Admin\source\repos\MethodsApp\MethodsApp\bin\Debug\MethodsApp.exe
+C:\Users\Admin\source\repos\MethodsApp\MethodsApp\bin\Debug\MethodsApp.pdb
+C:\Users\Admin\source\repos\MethodsApp\MethodsApp\obj\Debug\MethodsApp.exe
+C:\Users\Admin\source\repos\MethodsApp\MethodsApp\obj\Debug\MethodsApp.pdb
