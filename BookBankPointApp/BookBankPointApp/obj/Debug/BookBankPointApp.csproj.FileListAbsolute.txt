@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\BookBankPointApp\BookBankPointApp\bin\Debug\BookBankPointApp.exe.config
+C:\Users\Admin\source\repos\BookBankPointApp\BookBankPointApp\bin\Debug\BookBankPointApp.exe
+C:\Users\Admin\source\repos\BookBankPointApp\BookBankPointApp\bin\Debug\BookBankPointApp.pdb
+C:\Users\Admin\source\repos\BookBankPointApp\BookBankPointApp\obj\Debug\BookBankPointApp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BookBankPointApp\BookBankPointApp\obj\Debug\BookBankPointApp.Form1.resources
+C:\Users\Admin\source\repos\BookBankPointApp\BookBankPointApp\obj\Debug\BookBankPointApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\BookBankPointApp\BookBankPointApp\obj\Debug\BookBankPointApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BookBankPointApp\BookBankPointApp\obj\Debug\BookBankPointApp.exe
+C:\Users\Admin\source\repos\BookBankPointApp\BookBankPointApp\obj\Debug\BookBankPointApp.pdb
